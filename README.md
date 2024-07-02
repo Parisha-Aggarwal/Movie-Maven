@@ -1,0 +1,1 @@
+Hii Everyone, This is a movie recommender system that recommends you movies similar to the one that you give as input. It compares various features and then on the basis of that suggest you most similar movies.
